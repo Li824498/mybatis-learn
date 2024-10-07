@@ -12,7 +12,7 @@ public class Emp {
     private String username;
     private String password;
     private String name;
-    private short gender;
+    private Short gender;
     private String image;
     private short job;
     private String entrydate;
